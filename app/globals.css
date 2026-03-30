@@ -128,3 +128,9 @@
     @apply font-sans;
   }
 }
+@theme {
+  --color-primary: #0b1220;
+  --color-accent: #2563eb;
+  --color-muted: #94a3b8;
+  /* Add your other custom colors here */
+}

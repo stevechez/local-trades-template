@@ -1,0 +1,156 @@
+{
+  "siteMeta": {
+    "businessName": "Oakhaven Construction",
+    "description": "Premium general contracting and remodeling services.",
+    "seoTitle": "Oakhaven Construction | Trusted Local Contractor",
+    "faviconUrl": "/images/favicon.ico"
+  },
+  "branding": {
+    "logoUrl": "/images/logo.png",
+    "primaryColor": "#0F172A",
+    "accentColor": "#F59E0B"
+  },
+  "contact": {
+    "phone": "(408) 555-0198",
+    "email": "estimates@oakhavenbuilds.com",
+    "address": "Cupertino, CA 95014",
+    "businessHours": "Mon-Fri: 7am - 5pm"
+  },
+  "navigation": [
+    { "label": "Services", "href": "#services" },
+    { "label": "Gallery", "href": "#gallery" },
+    { "label": "About", "href": "#about" },
+    { "label": "Reviews", "href": "#reviews" }
+  ],
+  "hero": {
+    "headline": "Expert Craftsmanship For Your Home.",
+    "subheadline": "From custom remodels to seamless room additions, we deliver high-quality construction on time, on budget, and beyond expectations.",
+    "primaryCtaText": "Get a Free Estimate",
+    "primaryCtaLink": "/estimate",
+    "secondaryCtaText": "View Our Work",
+    "secondaryCtaLink": "#gallery",
+    "heroImageUrl": "/images/hero-pic.jpg"
+  },
+  "trustBanner": {
+    "heading": "Trusted by 100+ local homeowners",
+    "badges": ["Licensed & Insured", "5-Star Rated", "Locally Owned"]
+  },
+  "servicesBento": [
+    {
+      "id": "srv-1",
+      "title": "Custom Room Framing & Dividers",
+      "description": "Need to split a large room? We build seamless 12x12 divider walls, fully finished, textured, and ready for paint.",
+      "iconName": "Hammer"
+    },
+    {
+      "id": "srv-2",
+      "title": "Kitchen & Bath Remodels",
+      "description": "Complete transformations with premium finishes, modern layouts, and meticulous attention to detail.",
+      "iconName": "Home"
+    },
+    {
+      "id": "srv-3",
+      "title": "Drywall & Finishing",
+      "description": "Flawless drywall installation, patching, taping, and texturing for a perfect, paint-ready surface.",
+      "iconName": "Brush"
+    },
+    {
+      "id": "srv-4",
+      "title": "ADUs & Additions",
+      "description": "Expand your footprint with fully permitted accessory dwelling units and structural home extensions.",
+      "iconName": "Ruler"
+    }
+  ],
+  "about": {
+    "heading": "Cupertino's Trusted Building Partner",
+    "bioText": "We understand that inviting a contractor into your home requires absolute trust. We specialize in projects of all sizes—from framing out a simple room divider to executing full-scale renovations. Our commitment is simple: clear communication, transparent pricing, and craftsmanship that stands the test of time.",
+    "ownerImageUrl": "/images/about-team.jpg"
+  },
+  "testimonials": [
+    {
+      "id": "t1",
+      "name": "Sarah T.",
+      "text": "They framed out a new divider wall in our living room and the finish was flawless. They left the house cleaner than they found it!"
+    },
+    {
+      "id": "t2",
+      "name": "Michael R.",
+      "text": "Oakhaven completely transformed our outdated kitchen. Their attention to detail on the tile work and custom cabinets was incredible."
+    },
+    {
+      "id": "t3",
+      "name": "David L.",
+      "text": "Finally, a contractor who actually answers the phone and shows up exactly when they say they will. Highly recommended."
+    },
+    {
+      "id": "t4",
+      "name": "Elena M.",
+      "text": "We hired them for a massive ADU project. They navigated the city permits effortlessly and delivered a beautiful final product."
+    },
+    {
+      "id": "t5",
+      "name": "James K.",
+      "text": "Professional, polite, and precise. The drywall patching they did is completely invisible. I won't hire anyone else for my home."
+    }
+  ],
+
+  "trustBanner": {
+    "heading": "Proudly serving the South Bay for over 10 years",
+    "badges": [
+      "Licensed & Insured - CA License #1234567",
+      "5-Star Rated",
+      "Prompt Service"
+    ]
+  },
+  "gallery": [
+    {
+      "id": "g1",
+      "imageUrl": "/images/modern-kitchen.jpg",
+      "category": "Kitchens",
+      "altText": "Modern white kitchen remodel"
+    },
+    {
+      "id": "g2",
+      "imageUrl": "/images/walkin-shower.jpg",
+      "category": "Bathrooms",
+      "altText": "Walk-in shower tile work"
+    },
+    {
+      "id": "g3",
+      "imageUrl": "/images/custom-livingroom.jpg",
+      "category": "Living Spaces",
+      "altText": "Custom living room built-ins"
+    },
+    {
+      "id": "g4",
+      "imageUrl": "/images/kitchen-island.jpg",
+      "category": "Kitchens",
+      "altText": "Kitchen island installation"
+    },
+    {
+      "id": "g5",
+      "imageUrl": "/images/bathroom-vanity.jpg",
+      "category": "Bathrooms",
+      "altText": "Double vanity installation"
+    },
+    {
+      "id": "g6",
+      "imageUrl": "/images/custom-deck.jpg",
+      "category": "Exteriors",
+      "altText": "Custom deck build"
+    },
+
+    {
+      "id": "g7",
+      "imageUrl": "/images/room-divider.jpg",
+      "category": "Framing",
+      "altText": "New room divider framing"
+    },
+    {
+      "id": "g8",
+      "imageUrl": "/images/textured-wall.jpg",
+      "category": "Drywall",
+      "altText": "Freshly textured wall"
+    }
+  ]
+}
